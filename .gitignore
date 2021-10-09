@@ -1,0 +1,3 @@
+# Ignorera mappen där alla genererade filer hamnar.
+
+output/
