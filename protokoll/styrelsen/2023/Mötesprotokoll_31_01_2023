@@ -1,0 +1,130 @@
+\documentclass[protokoll]{dvd}
+
+\KOMAoptions{
+    headwidth = 18cm,
+    footwidth = 18cm,
+}
+
+\begin{document}
+
+\title{Styrelsemöte 2}
+\subtitle{2023}
+\author{Styrelsen}
+\date{2021-01-31}
+
+\textbf{Datum:} \csname @date\endcsname\\
+\textbf{Tid:} 14:15\\
+\textbf{Plats:} Styrelserummet och Discord\\
+\textbf{Styrelsemedlemmar:}
+\begin{närvarande_förtroendevalda}
+    \förtroendevald{Ordförande}{Samuel Otterhäll}{Ja}
+    \förtroendevald{Vice ordförande}{Vakant}{Ja}
+    \förtroendevald{Kassör}{Lukas Gartman}{Ja}
+    \förtroendevald{SAMO}{Tekla Siesjö}{Ja}
+    \förtroendevald{Sekreterare}{Vakant}{Ja}
+\end{närvarande_förtroendevalda}
+
+\section{Öppnande av möte}
+
+Mötet öppnades av Samuel Hammersberg kl 14.15
+
+\section{Runda bordet}
+
+Runda bordet innebär att varje person berättar hur de känner sig.
+Man kan till exempel berätta att man är stressad på grund av en inlämning, irriterad på sin granne, eller bara väldigt glad därför att man ligger i fas med plugget.
+
+\section{Formalia}
+
+\subsection{Styrelsens beslutbarhet}
+
+\blockquote[7 kap. 5 \S~första stycket i stadgan][]{%
+    Styrelsen är endast beslutsmässig då samtliga styrelsemedlemmar har fått kallelsen till styrelsemötet och minst hälften av styrelsemedlemmarna är närvarande.
+    Ordförande eller vice ordförande måste vara närvarande när beslut tas.
+}
+
+\subsubsection*{Beslut}
+
+\begin{attsatser}
+    \item Styrelsen har uppnått kraven i 7 kap. 5 § första stycket i stadgan och är därmed beslutbar.
+\end{attsatser}
+
+\subsection{Fastställande av mötesschema}
+
+För att styrelsen ska kunna fatta ett styrelsebeslut eller protokollföra en diskussion behöver punkten i mötesschemat där styrelsen ska fatta beslut vara inlagd eller föras in i mötesschemat senast vid den här punkten.
+
+\subsubsection*{Förslag}
+
+\begin{attsatser}
+    \item mötesschemat fastställs utan några förändringar.
+\end{attsatser}
+
+\subsection{Val av protokolljusterare}
+
+Protokolljusterare har till uppgift att kontrollera att protokollet i slutändan reflekterar de faktiska besluten och diskussionerna som fördes under mötet.
+Utöver protokolljusteraren så ska mötesordförande och mötessekreteraren signera protokollet.
+Vid styrelsemöten ska det endast vara en justerare.
+Mötesordförande och mötessekreteraren kan inte vara justerare.
+
+\subsubsection*{Förslag}
+\begin{attsatser}
+    \item Lukas Gartman väljs till protokolljusterare
+\end{attsatser}
+
+\section{Rapport}
+
+% \subsection{Styrelseövergripande}
+
+% \newpage
+
+\subsection{Ordförande}
+Det har gått framåt lite med loggan, inga färdiga resultat ännu.
+Samuel ska ha ett möte med Karl gällande studienämnden, de har haft problem med tillgång till gamla studieenkäter 
+Karl kände att instutionen skött det dåligt med överlämningen av resurser(kursenkäter/mötesprotokoll) 
+till studienämnden, mötet kommer uppdaga mer om det här. 
+
+\subsection{Kassör}
+Samuel och Lukas har varit på banken och fixat bankdosor och skrivit in sig på kontot, 
+Albin och Morgan ska föra över ägandeskapet till Samuel och Lukas.
+Alla har börjat smått rapportera hur packat det är på lunchtid i Monaden, men det kan bli bättre.
+
+% \subsection{Sekreterare}
+
+\subsection{SAMO}
+Mailat om rivning av väggen, jag ska kontakta CFAB
+Mail har kommi tillbaka om dörröppnarknappen, det eskaleras inte till akademiska hus, de tycker att den fungerar som den ska men har bett oss kontakta igen om något går fel 
+Ska gå igenom medlemslistan på nytt inför föreningsansökan, dubbelkolla att alla är medlemmar och lägga till nya från formuläret 
+
+\section{Beslutspunkter}
+
+
+\subsection{Stämman}
+DVRK vill ha en ny stämma för att välja en ny ordförande, helst under andra halvan av februari,
+i nuläget ser vi inte ytterligare punkter som borde tas upp på den.
+Samuel fixar announcement om att ha stämma och att folk får komma in med punkter till stämman.
+
+\subsection{Förslag}
+\begin{attsatser}
+  \item Nästa stämma hålls den 22a februari
+\end{attsatser}
+
+\section{Diskussion}
+
+\subsection{Äskningar}
+Två äskningar från concats, Lukas kontaktar Morgan och Karl om hur dessa ska hanteras gentemot Göta.
+
+\subsection{Ekonomikontot}
+Lukas kontaktar Morgan och Albin om överlämning
+
+\section{Avslutande av möte}
+Mötet avslutades kl. 15.16
+
+% \subsection{Mötesutvärdering}
+
+\subsection{Nästa möte}
+Nästa möte hålls Tisdag den 7/2 kl 11.15
+
+% \subsection{Mötets avslutande}
+
+\styrelsesignaturer
+
+\end{document}
